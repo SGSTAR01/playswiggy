@@ -1,0 +1,60 @@
+2026-02-01 18:28:08 info: Navigating to https://www.swiggy.com
+2026-02-01 18:28:20 info: Entering location: Alipurduar
+2026-02-01 18:28:21 info: Selecting first suggestion
+2026-02-01 18:28:21 info: Waiting for redirection link
+2026-02-01 18:28:22 info: Redirection link found, clicking to proceed to restaurants page...
+2026-02-01 18:28:22 info: Searching for item: Biryani
+2026-02-01 18:28:23 info: Starting Cart Test
+2026-02-01 18:28:23 info: Adding first restaurant's first item to cart
+2026-02-01 18:28:26 info: Add to cart click performed
+2026-02-01 18:28:26 info: Navigating to cart
+2026-02-01 18:28:27 info: Waiting for subtotal to be visible
+2026-02-01 18:28:27 info: Reading subtotal from cart page
+2026-02-01 18:28:27 info: Subtotal read: 210
+2026-02-01 18:29:36 info: Navigating to https://www.swiggy.com
+2026-02-01 18:29:41 info: Entering location: Alipurduar
+2026-02-01 18:29:42 info: Selecting first suggestion
+2026-02-01 18:29:42 info: Waiting for redirection link
+2026-02-01 18:29:43 info: Redirection link found, clicking to proceed to restaurants page...
+2026-02-01 18:29:43 info: Searching for item: Biryani
+2026-02-01 18:29:44 info: Starting Cart Test
+2026-02-01 18:29:44 info: Adding first restaurant's first item to cart
+2026-02-01 18:29:47 info: Add to cart click performed
+2026-02-01 18:29:47 info: Navigating to cart
+2026-02-01 18:29:49 info: Waiting for subtotal to be visible
+2026-02-01 18:29:49 info: Reading subtotal from cart page
+2026-02-01 18:29:49 info: Subtotal read: 210
+2026-02-01 18:31:15 info: Navigating to https://www.swiggy.com
+2026-02-01 18:31:15 info: Navigating to https://www.swiggy.com
+2026-02-01 18:31:16 info: Starting Location Test
+2026-02-01 18:31:16 info: Navigating to https://www.swiggy.com
+2026-02-01 18:31:16 info: Navigating to https://www.swiggy.com
+2026-02-01 18:31:22 info: Entering location: Alipurduar
+2026-02-01 18:31:23 info: Entering location: Alipurduar
+2026-02-01 18:31:23 info: Entering location: Alipurduar
+2026-02-01 18:31:23 info: Entering location: Alipurduar
+2026-02-01 18:31:23 info: Selecting first suggestion
+2026-02-01 18:31:24 info: Waiting for redirection link
+2026-02-01 18:31:24 info: Selecting first suggestion
+2026-02-01 18:31:24 info: Selecting first suggestion
+2026-02-01 18:31:24 info: Selecting first suggestion
+2026-02-01 18:31:24 info: Waiting for redirection link
+2026-02-01 18:31:24 info: Waiting for redirection link
+2026-02-01 18:31:24 info: Waiting for redirection link
+2026-02-01 18:31:25 info: Redirection link found, clicking to proceed to restaurants page...
+2026-02-01 18:31:25 info: Starting Search Test
+2026-02-01 18:31:25 info: Searching for item: Biryani
+2026-02-01 18:31:25 info: Redirection link found, clicking to proceed to restaurants page...
+2026-02-01 18:31:25 info: Searching for item: Biriyani
+2026-02-01 18:31:25 info: Redirection link found, clicking to proceed to restaurants page...
+2026-02-01 18:31:25 info: Searching for item: Biryani
+2026-02-01 18:31:25 info: Redirection link found, clicking to proceed to restaurants page...
+2026-02-01 18:31:26 info: Starting Filters Test
+2026-02-01 18:31:26 info: Applying veg filter
+2026-02-01 18:31:27 info: Starting Cart Test
+2026-02-01 18:31:27 info: Adding first restaurant's first item to cart
+2026-02-01 18:31:30 info: Add to cart click performed
+2026-02-01 18:31:30 info: Navigating to cart
+2026-02-01 18:31:31 info: Waiting for subtotal to be visible
+2026-02-01 18:31:31 info: Reading subtotal from cart page
+2026-02-01 18:31:31 info: Subtotal read: 210
