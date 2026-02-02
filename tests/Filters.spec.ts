@@ -14,6 +14,7 @@ test.describe('Filters Functionality', () => {
         await page.waitForLoadState('networkidle');
         await landingPage.enterLocation('Alipurduar');
         await landingPage.selectFirstSuggestion();
+        await page.waitForLoadState('networkidle');
 
         // Pre-requisite: Search for item
         await restaurantListingPage.searchForItem('Biriyani');

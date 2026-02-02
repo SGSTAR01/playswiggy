@@ -14,6 +14,7 @@ test.describe('Search Functionality', () => {
         await page.waitForLoadState('networkidle');
         await landingPage.enterLocation('Alipurduar'); // Using stable location
         await landingPage.selectFirstSuggestion();
+        await page.waitForLoadState('networkidle');
 
         logger.info('Starting Search Test');
         await restaurantListingPage.searchForItem('Biryani');

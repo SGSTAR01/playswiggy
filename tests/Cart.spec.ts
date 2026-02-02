@@ -16,6 +16,7 @@ test.describe('Cart Functionality', () => {
         await page.waitForLoadState('networkidle');
         await landingPage.enterLocation('Alipurduar');
         await landingPage.selectFirstSuggestion();
+        await page.waitForLoadState('networkidle');
 
         await restaurantListingPage.searchForItem('Biryani');
 

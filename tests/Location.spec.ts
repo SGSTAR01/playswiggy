@@ -12,6 +12,7 @@ test.describe('Location Functionality', () => {
         await page.waitForLoadState('networkidle');
         await landingPage.enterLocation('Alipurduar');
         await landingPage.selectFirstSuggestion();
+        await page.waitForLoadState('networkidle');
 
         // Verification: URL or Element check
         await expect(page).toHaveURL(/.*restaurants.*/);
